@@ -1,2 +1,2 @@
 # Data-Structures
-All DSA problem solving's and algorithms
+All DSA related problem solving's and Understanding the algorithoms
